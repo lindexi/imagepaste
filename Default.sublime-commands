@@ -2,10 +2,5 @@
     {
         "caption": "ImagePaste: Paste Image From Clipboard",
         "command": "image_paste"
-    },
-    {
-        "caption": "ImagePaste: Preview image",
-        "command": "image_preview"
     }
-
 ]
